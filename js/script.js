@@ -21,7 +21,7 @@ $(document).ready(function(){
 	});
 
 	var typed  = new Typed(".typed", {
-		strings : ["Student.", "Competitive programmer."], 
+		strings : ["Engineering student.", "Competitive programmer."], 
 		typeSpeed:70,
 		loop:true,
 		startDelay : 1000,
